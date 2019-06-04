@@ -1,10 +1,10 @@
 //Rain_Gauge_One.ino
 
 //Original code by jurs od Arduino.cc forum for use with "tipping bucket rain gauge.
-//jurs code modified by William Lucid, Github.com/tech500.
+//jurs code modified 6/3/2019 @ 14:58 EDT by William Lucid, Github.com/tech500.
 
 
-#define FIVEMINUTES (30*1000L) // 1 minutes are 600000 milliseconds
+#define FIVEMINUTES (30*1000L) // 30 Seconds, for 5 minutes will need changed to 300000 milliseconds
 
 #define REEDPIN 32
 #define REEDINTERRUPT 0 
@@ -88,13 +88,13 @@ void loop()
   
       Serial.println("count:  " + (String)count);
   
-           if(count == 3) //End of 1 hour  (for testing); otherwise, count = 20 for real 1 hour.)
+           if(count == 3) //End of 1 hour  (for testing 90 Seconds); otherwise, count = 20 for real 1 hour.)
            {
                rainFall = 0;
                rainHour = 0;
            }
            
-           if (count == 6)  //End of 1 day  (for testing); otherwise, count = 24 for real 1 hour.)
+           if (count == 6)  //End of 1 day  (for testing 180 Seconds); otherwise, count = 24 for real 1 hour.)
            {
               rainFall = 0;
               rainHour = 0;

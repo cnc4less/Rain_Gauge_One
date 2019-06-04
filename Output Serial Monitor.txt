@@ -1,0 +1,469 @@
+otal	Current
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Hourly rainfall rate:  0.09
+60 Minute Accumulating:  0.09
+Day Rainfall:  0.09
+count:  1
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.14	Dumps during 5 Minutes:  3
+Rainfall:  0.19	Dumps during 5 Minutes:  4
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.33	Dumps during 5 Minutes:  7
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Rainfall:  0.38	Dumps during 5 Minutes:  8
+Hourly rainfall rate:  0.47
+60 Minute Accumulating:  0.47
+Day Rainfall:  0.47
+count:  2
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.14	Dumps during 5 Minutes:  3
+Rainfall:  0.14	Dumps during 5 Minutes:  3
+Rainfall:  0.23	Dumps during 5 Minutes:  5
+Rainfall:  0.23	Dumps during 5 Minutes:  5
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Hourly rainfall rate:  0.75
+60 Minute Accumulating:  0.75
+Day Rainfall:  0.75
+count:  3
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Rainfall:  0.14	Dumps during 5 Minutes:  3
+Rainfall:  0.19	Dumps during 5 Minutes:  4
+Rainfall:  0.19	Dumps during 5 Minutes:  4
+Rainfall:  0.23	Dumps during 5 Minutes:  5
+Rainfall:  0.23	Dumps during 5 Minutes:  5
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Rainfall:  0.28	Dumps during 5 Minutes:  6
+Hourly rainfall rate:  0.28
+60 Minute Accumulating:  0.28
+Day Rainfall:  1.03
+count:  4
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Rainfall:  0.14	Dumps during 5 Minutes:  3
+Rainfall:  0.14	Dumps during 5 Minutes:  3
+Rainfall:  0.14	Dumps during 5 Minutes:  3
+Rainfall:  0.19	Dumps during 5 Minutes:  4
+Rainfall:  0.19	Dumps during 5 Minutes:  4
+Hourly rainfall rate:  0.47
+60 Minute Accumulating:  0.47
+Day Rainfall:  1.22
+count:  5
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Hourly rainfall rate:  0.47
+60 Minute Accumulating:  0.47
+Day Rainfall:  1.22
+count:  6
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Hourly rainfall rate:  0.00
+60 Minute Accumulating:  0.00
+Day Rainfall:  0.00
+count:  1
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.05	Dumps during 5 Minutes:  1
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Rainfall:  0.09	Dumps during 5 Minutes:  2
+Hourly rainfall rate:  0.09
+60 Minute Accumulating:  0.09
+Day Rainfall:  0.09
+count:  2
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Hourly rainfall rate:  0.09
+60 Minute Accumulating:  0.09
+Day Rainfall:  0.09
+count:  3
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Hourly rainfall rate:  0.00
+60 Minute Accumulating:  0.00
+Day Rainfall:  0.09
+count:  4
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Hourly rainfall rate:  0.00
+60 Minute Accumulating:  0.00
+Day Rainfall:  0.09
+count:  5
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Hourly rainfall rate:  0.00
+60 Minute Accumulating:  0.00
+Day Rainfall:  0.09
+count:  6
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Hourly rainfall rate:  0.00
+60 Minute Accumulating:  0.00
+Day Rainfall:  0.00
+count:  1
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0
+Rainfall:  0.00	Dumps during 5 Minutes:  0

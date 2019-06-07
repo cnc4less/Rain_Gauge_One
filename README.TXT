@@ -1,4 +1,4 @@
-Features of "Weather_View.ino".
+Features of "Weather_View.ino".  Testing version.
 
 1. RTC with GPS update; used for 15 minute time interval, date-time stamping, and dayofweek; 
 every 6th day, "LOG.TXT" file gets renamed, every Saturday "LOG.TXT" to keep file size 
@@ -63,66 +63,3 @@ project. Sensor is located indoors, currently.
 Developement board is Arduino friendly; can be programed using the Arduino IDE.
 Under $15.00 with shipping, is the project cost for Development Board and one,
 GY-BME280 breakout board, sensor for Barometric Pressure, Humidity, and Temperature.
-
-Short, Serial Monitor Output:
-
-=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2018.05.22 00:27:35 =~=~=~=~=~=~=~ 
-
-Client connected:  Tue , 05/22/2018 , 00:25:05 EDT
-Client IP:  10.0.0.146
-Processing request
-Action: GET
-Path: /Weather 
-Client closed:  Tue , 05/22/2018 , 00:25:06 EDT
-
-
-Client connected:  Tue , 05/22/2018 , 00:25:10 EDT
-Client IP:  10.0.0.146
-Processing request
-Action: GET
-Path: /SdBrowse
-Client closed:  Tue , 05/22/2018 , 00:25:11 EDT
-
-
-Client connected:  Tue , 05/22/2018 , 00:25:14 EDT
-Client IP:  10.0.0.146
-Processing request
-Action: GET
-Path: /LOG.TXT
-File:  /LOG.TXT
-Client closed:  Tue , 05/22/2018 , 00:25:25 EDT
-
-
-Client connected:  Tue , 05/22/2018 , 00:25:57 EDT
-Client IP:  10.0.0.146
-Processing request
-Action: GET
-Path: /README.TXT
-File:  /README.TXT
-Client closed:  Tue , 05/22/2018 , 00:25:58 EDT
-
-
-Client connected:  Tue , 05/22/2018 , 00:26:27 EDT
-Client IP:  10.0.0.146
-Processing request
-Action: GET
-Path: /Graphs
-Client closed:  Tue , 05/22/2018 , 00:26:28 EDT
-
-
-Client connected:  Tue , 05/22/2018 , 00:26:38 EDT
-Client IP:  10.0.0.146
-Processing request
-Action: GET
-Path: /Graphs
-Client closed:  Tue , 05/22/2018 , 00:26:39 EDT
-
-
-Client connected:  Tue , 05/22/2018 , 00:26:42 EDT
-Client IP:  10.0.0.146
-Processing request
-Action: GET
-Path: /Graphs
-Client closed:  Tue , 05/22/2018 , 00:26:43 EDT
-
-
